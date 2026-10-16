@@ -1,0 +1,4 @@
+fastai
+voila
+ipywidgets>=8,<9
+pillow
