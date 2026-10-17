@@ -1,4 +1,5 @@
 fastai
 voila
 ipywidgets>=8,<9
+huggingface_hub
 pillow
